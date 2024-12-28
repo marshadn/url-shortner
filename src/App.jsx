@@ -1,6 +1,6 @@
 import "./App.css";
 import {RouterProvider, createBrowserRouter} from "react-router-dom";
-//import UrlProvider from "./context";
+import UrlProvider from "./context";
 
 import AppLayout from "./layouts/app-layout";
 //import RequireAuth from "./components/require-auth";
@@ -49,9 +49,9 @@ const router = createBrowserRouter([
 
 function App() {
   return (
-   // <UrlProvider>
+   <UrlProvider>
       <RouterProvider router={router} />
-   // </UrlProvider>
+    </UrlProvider>
   );
 }
 
