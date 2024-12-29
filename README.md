@@ -71,7 +71,11 @@ url-shortener/
 
 ## Screenshots
 
-![URL Shortener Screenshot](screenshot.png)
-*(Include a screenshot of your application interface)*
+![Screenshot (703)](https://github.com/user-attachments/assets/32db71c4-6621-4f76-8166-be4138d7d90e)
+![Screenshot (704)](https://github.com/user-attachments/assets/98d5b311-7c48-479f-bb2a-2c34bd05ea52)
+![Screenshot (705)](https://github.com/user-attachments/assets/ac401a45-d4ea-4aba-b26a-d839d791d315)
+![Screenshot (707)](https://github.com/user-attachments/assets/0d5ad135-1973-4a8c-9745-03ad64c46cf3)
+
+
 
 
