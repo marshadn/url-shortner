@@ -67,7 +67,9 @@ url-shortener/
 1. Enter the long URL you want to shorten into the input field.
 2. (Optional) Provide a custom alias for the shortened link.
 3. Click on the "Shorten URL" button.
-4. Copy and share your shortened link!
+4. Copy and share your shortened link
+
+[Checkout the site here](https://trrimr.netlify.app/)
 
 ## Screenshots
 
