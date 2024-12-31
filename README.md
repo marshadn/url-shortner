@@ -1,4 +1,4 @@
-# URL Shortener Project(trimmr)
+# URL Shortener Project(trrimr)
 
 A simple and efficient URL shortener application built using **React.js**. This project enables users to convert long URLs into shorter, more manageable links. It also provides a user-friendly interface for managing and tracking shortened URLs.
 
